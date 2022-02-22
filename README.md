@@ -1,6 +1,8 @@
 # apprentice.css
 A full CSS file for Apprentice.
 
+See the demo [here](https://Camroku.github.io/apprentice.css/)
+
 ## Support
  - [x] Text
    - [x] Headings
