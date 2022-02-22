@@ -32,3 +32,4 @@ See the demo [here](https://Camroku.github.io/apprentice.css/)
 
 ## Credits
 * Test page and element list above: [cbracco/html5-test-page](https://github.com/cbracco/html5-test-page)
+* Apprentice: [romainl/Apprentice](https://github.com/romainl/Apprentice)
