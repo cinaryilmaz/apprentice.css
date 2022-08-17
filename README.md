@@ -3,6 +3,9 @@ A full CSS file for Apprentice.
 
 See the demo [here](https://Camroku.github.io/apprentice.css/)
 
+* `apprentice.css` - A CSS file which can be used on any page.
+* `bootstrap-apprentice.scss` - A SASS file which overrides Bootstrap's default colorset to apply Apprentice. It has been generated using [some nice guy's tool](https://lingtalfi.com/bootstrap4-color-generator)
+
 ## Support
  - [x] Text
    - [x] Headings
